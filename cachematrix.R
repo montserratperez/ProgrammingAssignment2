@@ -1,7 +1,7 @@
 ## The functions below are used to create a special object that stores
 ## a matrix and caches its inverse
 
-## We create four functions within makeCacheMatrix and it returns a 
+## We create four functions within makeCacheMatrix and the function returns a 
 ## list with the values of these four functions
 
 makeCacheMatrix <- function(x = matrix()) {
